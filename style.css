@@ -18,12 +18,12 @@ body
 .profile-main{color: hsl(229, 23%, 23%);font-weight: 700;font-size: 18px;}
 .location{color: hsl(227, 10%, 46%);margin-left:9rem ;}
 img{width: 5rem;height: 5rem;border-radius: 50%; border: 0.5rem solid rgb(255, 255, 255);position: relative;left: 50%; transform: translate(-50%,0%);}
-.footer-grid{display: grid;grid-template-columns: repeat(3,1fr); width: 100%;grid-column-gap:0.5rem;align-items: center;justify-content: center;margin:1rem 0rem 0rem 0.5rem;text-align: center;}
+.footer-grid{display: grid;grid-template-columns: repeat(3,1fr); width: 100%;grid-column-gap:0.5rem;align-items: center;justify-content: center;margin:1.5rem 0rem 0rem 0rem;text-align: center;border-top: 1px solid hsl(0, 0%, 59%);}
 .main{padding-bottom: 1rem;border-radius: 0.5rem;margin: 5rem auto;background:url('./images/bg-pattern-card.svg') no-repeat  scroll 50% 0rem   rgb(255, 255, 255);width: 350px;height: fit-content;display: flex;flex-direction: column;}
 .card{margin-top: 5rem;}
 .user-info{margin-left:7.5rem ;}
 .numbers{color: hsl(229, 23%, 23%);font-weight: 700;font-size: 18px;}
-.types{color: hsl(0, 0%, 59%);}
+.types{color: hsl(0, 0%, 59%);margin-top: -0.8rem;}
 hr{background-color: hsl(0, 0%, 59%);}
 
   
